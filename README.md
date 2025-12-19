@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 🔭 I'm working on a stock-market-app
 
 

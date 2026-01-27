@@ -1,5 +1,5 @@
 
-🔭 I'm working on a stock-market-app
+🔭 I'm working on a resume-radar app
 
 
 ## 🌐 Socials:
